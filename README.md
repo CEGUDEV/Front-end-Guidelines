@@ -7,7 +7,7 @@ Guidelines document for Front-end developers CEGU Indonesia
 ## Table of Contents
 
  - [Tech Stack](https://github.com/CEGUDEV/Front-end-Guidelines/tree/main?tab=readme-ov-file#tech-stack)
- - [Color References](https://github.com/CEGUDEV/Front-end-Guidelines/tree/main?tab=readme-ov-file#color-references)
+ - [Color References](https://github.com/CEGUDEV/Front-end-Guidelines/tree/main?tab=readme-ov-file#color-reference)
  - [Commit Message Standardization](https://github.com/CEGUDEV/Front-end-Guidelines/tree/main?tab=readme-ov-file#commit-message-standardization)
 
 
