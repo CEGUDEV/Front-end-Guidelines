@@ -41,13 +41,7 @@ ${references} //optional
 ```
 
 #### Ticket
-This should be filled by type of your task
- 
-- feature: add new feature
-- bugfix: a bug fixing
-- test: unit test improvement
-- config: updating depedencies or build configuration
-
+This should be filled by number ticket of your task
 - 1xxxx : add new feature
 - 2xxxx : a bug fixing
 - 3xxxx : update depencies or build configuration
